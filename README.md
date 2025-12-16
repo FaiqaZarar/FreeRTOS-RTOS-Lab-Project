@@ -55,7 +55,7 @@ This project demonstrates the implementation and extension of **FreeRTOS**, a re
 
 ---
 
-## 🏗️rchitecture
+## Architecture
 
 ### System Components
 
