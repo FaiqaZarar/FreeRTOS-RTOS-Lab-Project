@@ -493,8 +493,8 @@ While this is an academic project, suggestions and improvements are welcome:
 
 For questions or discussions about this project:
 
-- **Namra Basharat** - [GitHub Profile](https://github.com/YOUR_USERNAME)
-- **Project Repository** - [FreeRTOS-RTOS-Lab-Project](https://github.com/YOUR_USERNAME/FreeRTOS-RTOS-Lab-Project)
+- **Faiqa Zarar Noor** - [GitHub Profile](https://github.com/FaiqaZarar)
+- **Project Repository** - [FreeRTOS-RTOS-Lab-Project](https://github.com/FaiqaZarar/FreeRTOS-RTOS-Lab-Project)
 
 ---
 
