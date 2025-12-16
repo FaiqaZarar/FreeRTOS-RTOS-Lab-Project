@@ -190,7 +190,7 @@ cp src/modified_files/Makefile FreeRTOS/FreeRTOS/Demo/RISC-V_RV32_QEMU_VIRT_GCC/
 
 ---
 
-## 🔨 Building the Project
+##  Building the Project
 
 ### Navigate to Build Directory
 
@@ -240,7 +240,7 @@ text    data     bss     dec     hex filename
 
 ---
 
-## ▶️ Running the Project
+##  Running the Project
 
 ### Execute on QEMU
 
@@ -345,7 +345,7 @@ Task 2 trying to lock Mutex A
 
 ---
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
