@@ -403,10 +403,11 @@ All custom tasks include inline comments explaining:
 - Return values
 - Usage examples
 
----
-
 ### Complete Project Report
 The full academic report is available in [`docs/OS_LabProject.pdf`](docs/OS_LabProject.pdf)
+
+---
+
 
 ##  Learning Outcomes
 
