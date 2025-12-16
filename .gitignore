@@ -1,0 +1,46 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Editor and IDE Files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.sublime-*
+
+# Build Output
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+*.su
+*.d
+output/
+build/
+
+# Toolchain Downloads
+*.tar.gz
+*.zip
+xpack-*/
+tools/
+
+# FreeRTOS Source (too large to commit)
+FreeRTOS/
+
+# Temporary Files
+*.log
+*.tmp
+temp/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Backup Files
+*.bak
+*.backup
+*~
