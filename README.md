@@ -405,6 +405,9 @@ All custom tasks include inline comments explaining:
 
 ---
 
+### Complete Project Report
+The full academic report is available in [`docs/OS_LabProject.pdf`](docs/OS_LabProject.pdf)
+
 ##  Learning Outcomes
 
 This project demonstrates mastery of:
